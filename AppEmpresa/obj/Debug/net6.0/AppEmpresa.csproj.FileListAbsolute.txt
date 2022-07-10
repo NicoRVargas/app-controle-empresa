@@ -1,0 +1,15 @@
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.csproj.AssemblyReference.cache
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.AssemblyInfoInputs.cache
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.AssemblyInfo.cs
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.csproj.CoreCompileInputs.cache
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\bin\Debug\net6.0\AppEmpresa.exe
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\bin\Debug\net6.0\AppEmpresa.deps.json
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\bin\Debug\net6.0\AppEmpresa.runtimeconfig.json
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\bin\Debug\net6.0\AppEmpresa.dll
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\bin\Debug\net6.0\AppEmpresa.pdb
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.dll
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\refint\AppEmpresa.dll
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.pdb
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\AppEmpresa.genruntimeconfig.cache
+D:\development\csharp-programs\game\AppEmpresa\AppEmpresa\obj\Debug\net6.0\ref\AppEmpresa.dll
